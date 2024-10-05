@@ -70,7 +70,7 @@ nav {
 .nav-links a:hover{
   scale: 1.1;
 }
-.hero {
+.home1 {
   height: 100vh;
   background:url(bg.jpg);
   background-size: cover;
@@ -81,16 +81,16 @@ nav {
   color: #fff;
 }
 
-.hero-content {
+.home1-content {
   text-align: center;
 }
 
-.hero h1 {
+.home1 h1 {
   font-size: 48px;
   margin-bottom: 10px;
 }
 
-.hero p {
+.home1 p {
   font-size: 20px;
   margin-bottom: 20px;
 }
